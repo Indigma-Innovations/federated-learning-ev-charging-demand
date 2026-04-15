@@ -1,0 +1,19 @@
+venv/
+.idea/
+__pycache__/
+*.egg-info/
+
+.env
+logs/
+data/
+acn_fl_data/
+
+# build and distribution folders
+build/
+dist/
+outputs/
+notes/
+
+raw_read.py
+
+scripts/make_plots.py
